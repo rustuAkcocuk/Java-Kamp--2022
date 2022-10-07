@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\RRRRR\Java Kampı 2022 Odev3 c#\JavaKampı2022Hafta3Odev1Class\JavaKampı2022Hafta3Odev1Class\bin\Debug\JavaKampı2022Hafta3Odev1Class.exe.config
+C:\Users\Asus\Desktop\RRRRR\Java Kampı 2022 Odev3 c#\JavaKampı2022Hafta3Odev1Class\JavaKampı2022Hafta3Odev1Class\bin\Debug\JavaKampı2022Hafta3Odev1Class.exe
+C:\Users\Asus\Desktop\RRRRR\Java Kampı 2022 Odev3 c#\JavaKampı2022Hafta3Odev1Class\JavaKampı2022Hafta3Odev1Class\bin\Debug\JavaKampı2022Hafta3Odev1Class.pdb
+C:\Users\Asus\Desktop\RRRRR\Java Kampı 2022 Odev3 c#\JavaKampı2022Hafta3Odev1Class\JavaKampı2022Hafta3Odev1Class\obj\Debug\JavaKampı2022Hafta3Odev1Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\RRRRR\Java Kampı 2022 Odev3 c#\JavaKampı2022Hafta3Odev1Class\JavaKampı2022Hafta3Odev1Class\obj\Debug\JavaKampı2022Hafta3Odev1Class.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\RRRRR\Java Kampı 2022 Odev3 c#\JavaKampı2022Hafta3Odev1Class\JavaKampı2022Hafta3Odev1Class\obj\Debug\JavaKampı2022Hafta3Odev1Class.exe
+C:\Users\Asus\Desktop\RRRRR\Java Kampı 2022 Odev3 c#\JavaKampı2022Hafta3Odev1Class\JavaKampı2022Hafta3Odev1Class\obj\Debug\JavaKampı2022Hafta3Odev1Class.pdb
+C:\Users\Asus\Desktop\RRRRR\Java Kampı 2022 Odev3 c#\JavaKampı2022Hafta3Odev1Class\JavaKampı2022Hafta3Odev1Class\obj\Debug\JavaKampı2022Hafta3Odev1Class.csproj.AssemblyReference.cache
